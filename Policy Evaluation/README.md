@@ -27,11 +27,11 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
-1. Policy 1
+- Policy 1
 
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/ceb30fee-2349-463e-9bdd-8d0bd3d5ed88)
 
-3. Policy 2
+- Policy 2
 
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/882442f2-3442-49b3-adeb-e4b0f7976f7a)
 
