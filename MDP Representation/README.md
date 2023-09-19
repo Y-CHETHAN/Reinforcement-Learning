@@ -24,8 +24,6 @@ The action space includes two available actions:
 ### Sample Action
 A sample action could be "Brake," indicating that the driver has chosen to apply the brakes in order to reduce the engine's heat level.
 
-<br><br><br>
-
 ### Reward Function
 The rewards are structured to encourage actions that maintain the engine in the "Cool" state (reward of 1.0) and penalize actions that lead to the "Hot" state (strong penalty of -10.0).
 
