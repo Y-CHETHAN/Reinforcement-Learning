@@ -35,7 +35,5 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/882442f2-3442-49b3-adeb-e4b0f7976f7a)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## RESULT:
 Thus, the evaluation and comparison of the two policies using policy evaluation has been done successfully and it is found that policy 2 is better.
