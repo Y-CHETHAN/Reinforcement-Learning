@@ -15,8 +15,6 @@ The bandit slippery walk problem is a reinforcement learning problem in which an
 6. Set the next state as the current state.
 7. If goal state is reached, then end and repeat the process.
 
-<br><br><br><br><br><br>
-
 ## SARSA LEARNING FUNCTION:
 ```python
 def sarsa(env,
@@ -71,15 +69,11 @@ def sarsa(env,
 ### State-value function found by FVMC
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/6f4e0111-4f8b-41c2-8606-52546dd14eb1)
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ### State-value function found by Sarsa
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/809889df-a246-4108-a56b-7c7929b5c9f3)
 
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/38de5b20-1eae-4d9c-8092-3fab9ed4b1c3)
-
-<br><br>
 
 ### Sarsa estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/5b800e5f-c2c5-4a03-8aae-af74fc00fa4f)
