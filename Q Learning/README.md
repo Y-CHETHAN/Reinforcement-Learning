@@ -60,6 +60,8 @@ def q_learning(env,
 ### State-value function found by FVMC
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/95033ed8-4428-49fd-8dd2-a74a434f5b47)
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ### State-value function found by Q-learning
 
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/b3291d0b-74eb-487a-9b50-274d737da817)
