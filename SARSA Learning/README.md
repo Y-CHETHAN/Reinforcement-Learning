@@ -4,7 +4,7 @@
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
 
 ## PROBLEM STATEMENT:
-Consider the gridworld environment shown below. The agent starts in the starting state (S) and must navigate to the goal state (G) while avoiding the hole state (H). The agent receives a reward of +1 for reaching the goal state (G). The agent receives a reward of 0 for all other states. The agent can take two actions: move right (R) or move left (L). The transition probabilities for each action are as follows: 50% chance that the agent moves in the intended direction, 33.33% chance that the agent stays in its current state, and 16.66% chance that the agent moves in the opposite direction. For example, if the agent is in state S and takes the "R" action, then there is a 50% chance that it will move to state 4, a 33.33% chance that it will stay in state S, and a 16.66% chance that it will move to state 2. Develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
+The bandit slippery walk problem is a reinforcement learning problem in which an agent must learn to navigate a 7-state environment in order to reach a goal state. The environment is slippery, so the agent has a chance of moving in the opposite direction of the action it takes.
 
 ![image](https://github.com/Marinto-Richee/Reinforcement-Learning/assets/65499285/d2857587-d2b8-4056-bd48-c51a0013a7c1)
 
