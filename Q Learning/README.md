@@ -61,6 +61,7 @@ def q_learning(env,
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/95033ed8-4428-49fd-8dd2-a74a434f5b47)
 
 ### State-value function found by Q-learning
+
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/b3291d0b-74eb-487a-9b50-274d737da817)
 
 ### FVMC estimates through time vs. true values
