@@ -54,6 +54,8 @@ def q_learning(env,
     return Q, V, pi, Q_track, pi_track
 ```
 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## OUTPUT:
 ### State-value function found by FVMC
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/95033ed8-4428-49fd-8dd2-a74a434f5b47)
