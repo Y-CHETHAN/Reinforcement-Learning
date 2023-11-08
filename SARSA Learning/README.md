@@ -1,4 +1,4 @@
-# SARSA Learning Algorithm
+# SARSA LEARNING ALGORITHM
 
 ## AIM:
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
@@ -71,8 +71,10 @@ def sarsa(env,
 
 ## OUTPUT:
 ### State-value function found by FVMC
+![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/6f4e0111-4f8b-41c2-8606-52546dd14eb1)
 
 ### State-value function found by Sarsa
+![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/809889df-a246-4108-a56b-7c7929b5c9f3)
 
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/38de5b20-1eae-4d9c-8092-3fab9ed4b1c3)
