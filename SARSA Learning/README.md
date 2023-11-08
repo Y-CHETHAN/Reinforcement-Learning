@@ -15,6 +15,7 @@ The bandit slippery walk problem is a reinforcement learning problem in which an
 6. Set the next state as the current state.
 7. If goal state is reached, then end and repeat the process.
 
+<br><br><br><br><br><br>
 
 ## SARSA LEARNING FUNCTION:
 ```python
