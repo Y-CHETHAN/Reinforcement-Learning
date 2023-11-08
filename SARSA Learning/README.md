@@ -79,7 +79,7 @@ def sarsa(env,
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/38de5b20-1eae-4d9c-8092-3fab9ed4b1c3)
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 ### Sarsa estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/5b800e5f-c2c5-4a03-8aae-af74fc00fa4f)
