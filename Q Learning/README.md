@@ -53,12 +53,10 @@ def q_learning(env,
     pi=lambda s:{s:a for s,a in enumerate(np.argmax(Q,axis=1))}[s]
     return Q, V, pi, Q_track, pi_track
 ```
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## OUTPUT:
 ### State-value function found by FVMC
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/ac707301-9260-46fc-a3e7-b24604884685)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ### State-value function found by Q-learning
@@ -66,7 +64,6 @@ def q_learning(env,
 
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/a6e3042e-6ec0-4f81-ac95-788131860e6e)
-<br><br><br><br>
 
 ### Q-Learning estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/c09bdd1a-5589-42fe-bcab-d5b096b0ac4e)
