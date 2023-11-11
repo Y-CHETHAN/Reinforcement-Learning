@@ -67,10 +67,10 @@ def sarsa(env,
 
 ## OUTPUT:
 ### State-value function found by FVMC
-![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/6f4e0111-4f8b-41c2-8606-52546dd14eb1)
+![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/1fb25fd0-76df-48d5-a799-b3545a010250)
 
 ### State-value function found by Sarsa
-![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/809889df-a246-4108-a56b-7c7929b5c9f3)
+![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/aac188a6-bd0e-4be3-bff6-5e8e4ec966a0)
 
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/38de5b20-1eae-4d9c-8092-3fab9ed4b1c3)
