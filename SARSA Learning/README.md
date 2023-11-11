@@ -64,19 +64,16 @@ def sarsa(env,
 
     return Q, V, pi, Q_track, pi_track
 ```
-<br><br><br><br>
 
 ## OUTPUT:
 ### State-value function found by FVMC
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/1fb25fd0-76df-48d5-a799-b3545a010250)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### State-value function found by Sarsa
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/aac188a6-bd0e-4be3-bff6-5e8e4ec966a0)
 
 ### FVMC estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/38de5b20-1eae-4d9c-8092-3fab9ed4b1c3)
-<br><br><br><br>
 
 ### Sarsa estimates through time vs. true values
 ![image](https://github.com/Y-CHETHAN/Reinforcement-Learning/assets/75234991/5b800e5f-c2c5-4a03-8aae-af74fc00fa4f)
